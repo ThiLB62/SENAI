@@ -1,0 +1,27 @@
+.vermelho{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+h1 {
+    text-align: center;
+    line-height: 140px;
+}
+.amarelo{
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+}
+h1 {
+    text-align: center;
+    line-height: 140px;
+    color: white;
+}.verde{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+}
+h1 {
+    text-align: center;
+    line-height: 140px;
+}
