@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(19, 19, 46);
+}
+.titulo {
+    background-color: rgb(19, 19, 46);
+    color: rgb(59, 167, 255);
+    font-size: 40px;
+}
+.paddin {
+    background-color: blue;
+    padding: 30px;
+    color: white;
+}
+.margin {
+    background-color: green;
+    margin: 30px;
+    color: white;
+}
+.padding-margin {
+    background-color: orange;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+}

@@ -1,0 +1,25 @@
+div {
+    background-color: rgb(44, 44, 44);
+    width: 400px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.nome {
+    color:aqua;
+    font-size: 20px;
+}
+img {
+    width: 400px;
+}
+.email {
+    color: white;
+}
+.numero {
+    color: white;
+}
+.dev {
+    color: white;
+}
+.nivel {
+    color: aqua;
+}
