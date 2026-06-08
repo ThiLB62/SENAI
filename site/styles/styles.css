@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+div {
+    background-color: white;
+}
+.inicio {
+    background-color: blue;
+    color: white;
+}
+.nome {
+    color: red;
+    font-weight: bold;
+}
+.idade {
+    color: red;
+    font-weight: bold;
+}
+.fim {
+    background-color: blue;
+    color: white;
+}
