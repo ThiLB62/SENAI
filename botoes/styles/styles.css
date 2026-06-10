@@ -6,7 +6,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 10px;
     font-size: 20px;
     border: 1px solid rgb(0, 0, 0);
 }
@@ -14,4 +13,155 @@
     background-color: rgb(0, 0, 0);
     color: white;
     border: 1px white;
+}
+.acessar {
+    width: 140px;
+    height: 50px;
+    background-color: #00ffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.acessar:hover {
+    background-color: rgb(135, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.comprar {
+    width: 140px;
+    height: 50px;
+    background-color: #26ff79;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.comprar:hover {
+    background-color: rgb(108, 255, 152);
+    color: rgb(0, 0, 0);
+}
+.login {
+    width: 200px;
+    height: 50px;
+    background-color: #ff3bff;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.login:hover {
+    background-color: rgb(255, 255, 255);
+    color: #ff3bff;
+    border: 1px solid rgb(0, 0, 0);
+}
+.vermelho {
+    width: 140px;
+    height: 50px;
+    background-color: #ffffff;
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 1px solid rgb(255, 0, 0);
+}
+.vermelho:hover {
+    background-color: rgb(255, 0, 0);
+    color: #ffffff;
+}
+.cinza {
+    width: 150px;
+    height: 40px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+.cinza:hover {
+    background-color: rgb(56, 56, 56);
+    color: #ffffff;
+    border: 1px solid rgb(53, 53, 53);
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+.saiba {
+    width: 150px;
+    height: 40px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.saiba:hover {
+    background-color: rgb(255, 255, 255);
+    color: #474747;
+}
+.pesquisa {
+    width: 200px;
+    height: 50px;
+    background-color: #e5ff00;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    border-left: 3px solid rgb(0, 0, 0);
+}
+.pesquisa:hover {
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #e5ff00;
+    border-left: 3px solid #e5ff00;
+}
+.verde {
+    width: 140px;
+    height: 50px;
+    background-color: #00ff00;
+    color: rgb(0, 77, 4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 1px solid rgb(0, 77, 4);
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.verde:hover {
+    background-color: rgb(0, 77, 4);
+    color: #00ff00;
+    border: 1px solid  rgb(0, 77, 4);
+}
+.roxo {
+    width: 140px;
+    height: 50px;
+    background-color: #ffffff;
+    color: rgb(155, 0, 142);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 1px solid rgb(155, 0, 142);
+}
+.roxo:hover {
+    background-color: rgb(155, 0, 142);
+    color: #ffffff;
 }
