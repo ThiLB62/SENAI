@@ -1,0 +1,39 @@
+span {
+    font-weight: bold;
+}
+.tudo {
+    background-color: #70B948;
+    height: 470px;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+.nome {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 10px;
+}
+.status {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    line-height: 10px;
+    background-color:#B2ED8D;
+    border-radius: 10px;
+    padding: 10px;
+    height: 160px;
+}
+.descricao {
+    font-size: 15px;
+    line-height: 10px;
+    text-align: center;
+    color: #327F18;
+}
+img {
+    border-radius: 10px;
+    height: 200px;
+    width: 300px;
+    margin: 0 auto;
+}
